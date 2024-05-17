@@ -55,8 +55,6 @@ Things you can customise in `_config.yml`:
 - Social Links and Contact Info
 - Feature List (Title, text, icon)
 
-
-
 ### Step 3: Add screenshot or video
 
 #### Adding a screenshot
