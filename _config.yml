@@ -19,11 +19,12 @@ enable_smart_app_banner                   : true                                
 
  
 
+
 # Information About Yourself
 your_name                                 : Daniel Leinius                               
 your_link                                 : https://www.codingpilot.de                     
 your_city                                 : Frankfurt                                
-email_address                             : apps@codingpilot.de
+email_address                             : apps@codingpilot.d
 facebook_username                         :                                           
 instagram_username                        : 
 twitter_username                          : 
