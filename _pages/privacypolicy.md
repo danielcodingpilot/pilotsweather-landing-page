@@ -8,6 +8,7 @@ include_in_header: false
 
 Effective Date: 11 Nov 2024
 
+
 The provider of PilotsWeather ("we", "us", "our") respects the privacy of our users.
 This Privacy Policy explains how we use, disclose, and safeguard your information when you use the app PilotsWeather.
 Please note that this Privacy Policy applies only to the app PilotsWeather, not the website pilotsweather.codingpilot.de.
